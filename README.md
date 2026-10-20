@@ -13,7 +13,7 @@ I have 5+ years of experience building and modernising web platforms with Larave
 ## Things I have built
 
 * **[FruitVision](https://github.com/ARArshad/fruit-vision)** ([live demo](https://ararshad.github.io/fruit-vision/)): a fruit classifier for 16 fruits with 91.6% test accuracy. The convolutional network, training loop and image decoders are written from scratch on the Python standard library, and the model runs right in the browser.
-* **CV Studio** ([live demo](https://ararshad.github.io/cv-studio/)): a free CV builder with 40 templates, an ATS checker and PDF download, built with Next.js, React and TypeScript.
+* **[CV Studio](https://github.com/ARArshad/cv-studio)** ([live demo](https://ararshad.github.io/cv-studio/)): a free CV builder with 40 templates, an ATS checker and PDF download, built with Next.js, React and TypeScript.
 * **[Folio](https://github.com/ARArshad/folio-editor)**: a collaborative document workspace built with Next.js, Tiptap and SQLite.
 * **[Portfolio](https://ararshad.github.io)**: my personal site in plain HTML, CSS and JavaScript, with light and dark themes.
 
